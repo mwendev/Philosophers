@@ -2,7 +2,7 @@
 
 ## Info
 
-Multithread simulator of philosophers eating, thinking sleeping. fork() philosophers to take forks to eat...
+Multithread simulator of philosophers eating, thinking, and sleeping. 
 
 - Grade: 100/100
 - Keywords: Unix logic
